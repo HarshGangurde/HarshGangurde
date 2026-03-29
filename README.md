@@ -17,27 +17,6 @@
 - 🔹 Exploring **Generative AI + scalable system design**
 - 🔹 Improving **production ML deployment pipelines**
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`Python` `SQL`
-
-### 🤖 AI/ML
-`TensorFlow` `Scikit-learn` `OpenCV` `Feature Engineering`
-
-### 🧠 LLM & GenAI
-`LangChain` `OpenAI APIs` `Prompt Engineering`
-
-### ⚙️ Backend & DevOps
-`FastAPI` `Docker` `Git` `Azure`
-
-### 📊 Data Tools
-`Power BI` `Jupyter Notebook`
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: **harshgangurde04@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/harshgangurde**
