@@ -1,15 +1,77 @@
-# 💫 About Me:
-I am Harsh Gangurde, AI/ML Engineer specializing in building and deploying production-grade machine learning systems. <br>Proven track record of delivering scalable AI solutions, including high-accuracy deep learning models <br>and LLM-powered applications. Experienced in end-to-end pipeline development, from data processing to <br>real-time deployment. Focused on creating impactful, reliable systems that solve real-world problems.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshgangurde/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@harshgangurde077) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshgangurde04@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-
+<h1 align="center">Hi 👋, I'm Harsh Gangurde</h1>
+<h3 align="center">🚀 AI/ML Engineer | Building Production-Ready Intelligent Systems</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarshGangurde&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+- 💡 AI/ML Engineer focused on **real-world, scalable solutions**
+- ⚙️ Specialized in **end-to-end ML pipelines & LLM integrations**
+- 📊 Built high-impact systems like **Deepfake Detection (92% accuracy)**
+- ☁️ Experienced in **deploying AI systems on cloud & APIs**
+- 🎯 Goal: Build **intelligent systems that solve real business problems**
+
+---
+
+## 🚀 Current Focus
+- 🔹 Building **LLM-powered applications & automation systems**
+- 🔹 Developing **real-time AI APIs with FastAPI**
+- 🔹 Exploring **Generative AI + scalable system design**
+- 🔹 Improving **production ML deployment pipelines**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Python` `SQL`
+
+### 🤖 AI/ML
+`TensorFlow` `Scikit-learn` `OpenCV` `Feature Engineering`
+
+### 🧠 LLM & GenAI
+`LangChain` `OpenAI APIs` `Prompt Engineering`
+
+### ⚙️ Backend & DevOps
+`FastAPI` `Docker` `Git` `Azure`
+
+### 📊 Data Tools
+`Power BI` `Jupyter Notebook`
+
+---
+
+## 📌 Featured Projects
+
+### 🔍 Deepfake Detection System
+- Built using **VGG16 + OpenCV**
+- Processed **1000+ frames per video**
+- Achieved **92% accuracy**
+- Real-time video integrity analysis pipeline
+
+---
+
+### 🔋 EV Battery Intelligence Platform
+- Full-stack platform (**FastAPI + React + Docker**)
+- Predicts **battery health & lifecycle risk**
+- Real-time dashboards + ML inference APIs
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **harshgangurde04@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/harshgangurde**
+- 💻 GitHub: **https://github.com/HarshGangurde**
+
+---
+
+## ⚡ Fun Fact
+I don’t just build models — I **deploy systems that actually work in the real world.**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshGangurde&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshGangurde&theme=tokyonight" />
+</p>
