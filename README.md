@@ -6,7 +6,6 @@
 ## 🧠 About Me
 - 💡 AI/ML Engineer focused on **real-world, scalable solutions**
 - ⚙️ Specialized in **end-to-end ML pipelines & LLM integrations**
-- 📊 Built high-impact systems like **Deepfake Detection (92% accuracy)**
 - ☁️ Experienced in **deploying AI systems on cloud & APIs**
 - 🎯 Goal: Build **intelligent systems that solve real business problems**
 
@@ -39,28 +38,9 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔍 Deepfake Detection System
-- Built using **VGG16 + OpenCV**
-- Processed **1000+ frames per video**
-- Achieved **92% accuracy**
-- Real-time video integrity analysis pipeline
-
----
-
-### 🔋 EV Battery Intelligence Platform
-- Full-stack platform (**FastAPI + React + Docker**)
-- Predicts **battery health & lifecycle risk**
-- Real-time dashboards + ML inference APIs
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: **harshgangurde04@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/harshgangurde**
-- 💻 GitHub: **https://github.com/HarshGangurde**
-
 ---
 
 ## ⚡ Fun Fact
